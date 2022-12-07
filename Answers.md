@@ -12,3 +12,15 @@
 - Port 389, TLS connections
 - Port 583, to encrypt SMTP messages using STARTTLS
 - Port 993, secure port for IMAP
+
+## Personal IP
+
+- There were 30 "hops" 
+- my isp is Samford
+
+## Samford iD 
+
+- 104.245.151.114
+- Country, USA 
+- Region, Alabama 
+- City, Birmingham
